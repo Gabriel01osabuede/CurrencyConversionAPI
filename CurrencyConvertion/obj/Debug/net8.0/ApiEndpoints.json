@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "CurrencyConvertion.Controllers.CurrencyController",
+    "Method": "HistoricalCurrencyRate",
+    "RelativePath": "api/v{version}/Currency/HistoricalCurrencyRate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageIndex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CurrencyConvertion.ViewModels.ApiResponse\u00601[[System.Collections.Generic.List\u00601[[CurrencyConvertion.ViewModels.HistoricalCurrencyRateViewModel, CurrencyConvertion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CurrencyConvertion.Controllers.CurrencyController",
+    "Method": "RealTimeCurrencyRate",
+    "RelativePath": "api/v{version}/Currency/RealTimeCurrencyRate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageIndex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CurrencyConvertion.ViewModels.ApiResponse\u00601[[System.Collections.Generic.List\u00601[[CurrencyConvertion.ViewModels.CurrencyRateViewModel, CurrencyConvertion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,498 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\services\\backgroundjobs\\historicalratefetchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:services\\backgroundjobs\\historicalratefetchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE3A30A-A631-4780-B1F6-7EE1B4934087}|..\\CurrencyData.Web\\CurrencyData.Web.csproj|c:\\users\\dell 5310\\source\\repos\\currencydata.web\\services\\currencyrateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE3A30A-A631-4780-B1F6-7EE1B4934087}|..\\CurrencyData.Web\\CurrencyData.Web.csproj|c:\\users\\dell 5310\\source\\repos\\currencydata.web\\controllers\\currencyratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\interfaces\\icurrencyrateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:interfaces\\icurrencyrateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE3A30A-A631-4780-B1F6-7EE1B4934087}|..\\CurrencyData.Web\\CurrencyData.Web.csproj|c:\\users\\dell 5310\\source\\repos\\currencydata.web\\interfaces\\icurrencyrateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\models\\historicalexchangeratedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:models\\historicalexchangeratedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\models\\historicalexchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:models\\historicalexchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Migrations\\20250527132610_InitialMig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250527132610_InitialMig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\models\\realtimeexchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:models\\realtimeexchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\context\\currencydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:context\\currencydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Migrations\\20250527125143_InitialMig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250527125143_InitialMig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\viewmodels\\historicalcurrencyrateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:viewmodels\\historicalcurrencyrateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\viewmodels\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:viewmodels\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\viewmodels\\currencyrateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:viewmodels\\currencyrateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE3A30A-A631-4780-B1F6-7EE1B4934087}|..\\CurrencyData.Web\\CurrencyData.Web.csproj|c:\\users\\dell 5310\\source\\repos\\currencydata.web\\viewmodels\\historicalcurrencyratevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE3A30A-A631-4780-B1F6-7EE1B4934087}|..\\CurrencyData.Web\\CurrencyData.Web.csproj|c:\\users\\dell 5310\\source\\repos\\currencydata.web\\viewmodels\\currencyratevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\services\\apikeyauthandretryattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:services\\apikeyauthandretryattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\viewmodels\\filterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:viewmodels\\filterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\services\\helperclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:services\\helperclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\viewmodels\\apikeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:viewmodels\\apikeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\interfaces\\ihelperclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:interfaces\\ihelperclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\viewmodels\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:viewmodels\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|c:\\users\\dell 5310\\source\\repos\\currencyconvertion\\viewmodels\\currencyrateurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41D301-2FB3-45C4-AE86-618843ED231C}|CurrencyConvertion.csproj|solutionrelative:viewmodels\\currencyrateurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE3A30A-A631-4780-B1F6-7EE1B4934087}|..\\CurrencyData.Web\\CurrencyData.Web.csproj|c:\\users\\dell 5310\\source\\repos\\currencydata.web\\viewmodels\\resultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoricalRateFetchService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Services\\BackgroundJobs\\HistoricalRateFetchService.cs",
+              "RelativeDocumentMoniker": "Services\\BackgroundJobs\\HistoricalRateFetchService.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Services\\BackgroundJobs\\HistoricalRateFetchService.cs",
+              "RelativeToolTip": "Services\\BackgroundJobs\\HistoricalRateFetchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:12:30.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyRateService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\Services\\CurrencyRateService.cs",
+              "RelativeDocumentMoniker": "..\\CurrencyData.Web\\Services\\CurrencyRateService.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\Services\\CurrencyRateService.cs",
+              "RelativeToolTip": "..\\CurrencyData.Web\\Services\\CurrencyRateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAO8CAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:36:12.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyRateController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\Controllers\\CurrencyRateController.cs",
+              "RelativeDocumentMoniker": "..\\CurrencyData.Web\\Controllers\\CurrencyRateController.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\Controllers\\CurrencyRateController.cs",
+              "RelativeToolTip": "..\\CurrencyData.Web\\Controllers\\CurrencyRateController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADgv0EAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:45:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICurrencyRateService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\Interfaces\\ICurrencyRateService.cs",
+              "RelativeDocumentMoniker": "..\\CurrencyData.Web\\Interfaces\\ICurrencyRateService.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\Interfaces\\ICurrencyRateService.cs",
+              "RelativeToolTip": "..\\CurrencyData.Web\\Interfaces\\ICurrencyRateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:38:07.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICurrencyRateService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Interfaces\\ICurrencyRateService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICurrencyRateService.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Interfaces\\ICurrencyRateService.cs",
+              "RelativeToolTip": "Interfaces\\ICurrencyRateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:24:19.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:35:02.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoricalExchangeRate.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Models\\HistoricalExchangeRate.cs",
+              "RelativeDocumentMoniker": "Models\\HistoricalExchangeRate.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Models\\HistoricalExchangeRate.cs",
+              "RelativeToolTip": "Models\\HistoricalExchangeRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:49:57.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistoricalExchangeRateDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Models\\HistoricalExchangeRateDetails.cs",
+              "RelativeDocumentMoniker": "Models\\HistoricalExchangeRateDetails.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Models\\HistoricalExchangeRateDetails.cs",
+              "RelativeToolTip": "Models\\HistoricalExchangeRateDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:51:20.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250527132610_InitialMig.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Migrations\\20250527132610_InitialMig.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250527132610_InitialMig.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Migrations\\20250527132610_InitialMig.cs",
+              "RelativeToolTip": "Migrations\\20250527132610_InitialMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:26:11.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250527125143_InitialMig.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Migrations\\20250527125143_InitialMig.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250527125143_InitialMig.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Migrations\\20250527125143_InitialMig.cs",
+              "RelativeToolTip": "Migrations\\20250527125143_InitialMig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:51:43.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RealTimeExchangeRate.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Models\\RealTimeExchangeRate.cs",
+              "RelativeDocumentMoniker": "Models\\RealTimeExchangeRate.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Models\\RealTimeExchangeRate.cs",
+              "RelativeToolTip": "Models\\RealTimeExchangeRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:34:50.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrencyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Context\\CurrencyDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\CurrencyDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Context\\CurrencyDbContext.cs",
+              "RelativeToolTip": "Context\\CurrencyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:23:01.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\ApiResponse.cs",
+              "RelativeToolTip": "ViewModels\\ApiResponse.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:04:14.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HistoricalCurrencyRateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\HistoricalCurrencyRateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HistoricalCurrencyRateViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\HistoricalCurrencyRateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HistoricalCurrencyRateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:29:13.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T10:23:00.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CurrencyRateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\CurrencyRateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CurrencyRateViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\CurrencyRateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CurrencyRateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:27:01.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HistoricalCurrencyRateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\ViewModels\\HistoricalCurrencyRateVM.cs",
+              "RelativeDocumentMoniker": "..\\CurrencyData.Web\\ViewModels\\HistoricalCurrencyRateVM.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\ViewModels\\HistoricalCurrencyRateVM.cs",
+              "RelativeToolTip": "..\\CurrencyData.Web\\ViewModels\\HistoricalCurrencyRateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:18:28.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CurrencyRateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\ViewModels\\CurrencyRateVM.cs",
+              "RelativeDocumentMoniker": "..\\CurrencyData.Web\\ViewModels\\CurrencyRateVM.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\ViewModels\\CurrencyRateVM.cs",
+              "RelativeToolTip": "..\\CurrencyData.Web\\ViewModels\\CurrencyRateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:09:26.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "Controllers\\CurrencyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:01:23.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:36:15.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\ResultModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ResultModel.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\ResultModel.cs",
+              "RelativeToolTip": "ViewModels\\ResultModel.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:47:33.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApiKeyAuthAndRetryAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Services\\ApiKeyAuthAndRetryAttribute.cs",
+              "RelativeDocumentMoniker": "Services\\ApiKeyAuthAndRetryAttribute.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Services\\ApiKeyAuthAndRetryAttribute.cs",
+              "RelativeToolTip": "Services\\ApiKeyAuthAndRetryAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:54:43.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HelperClass.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Services\\HelperClass.cs",
+              "RelativeDocumentMoniker": "Services\\HelperClass.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Services\\HelperClass.cs",
+              "RelativeToolTip": "Services\\HelperClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:40:44.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FilterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\FilterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\FilterViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\FilterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\FilterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:48:59.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IHelperClass.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Interfaces\\IHelperClass.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IHelperClass.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\Interfaces\\IHelperClass.cs",
+              "RelativeToolTip": "Interfaces\\IHelperClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:44:45.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApiKeys.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\ApiKeys.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ApiKeys.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\ApiKeys.cs",
+              "RelativeToolTip": "ViewModels\\ApiKeys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:05:47.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CurrencyRateUrl.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\CurrencyRateUrl.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CurrencyRateUrl.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyConvertion\\ViewModels\\CurrencyRateUrl.cs",
+              "RelativeToolTip": "ViewModels\\CurrencyRateUrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:10:50.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\ViewModels\\ResultModel.cs",
+              "RelativeDocumentMoniker": "..\\CurrencyData.Web\\ViewModels\\ResultModel.cs",
+              "ToolTip": "C:\\Users\\Dell 5310\\source\\repos\\CurrencyData.Web\\ViewModels\\ResultModel.cs",
+              "RelativeToolTip": "..\\CurrencyData.Web\\ViewModels\\ResultModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:26:18.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

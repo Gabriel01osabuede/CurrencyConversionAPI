@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LVsO34oDL4lgga1nvuwdag0NxKXy7DTjfxPTVAsIWNA=",
+  "Source": "CurrencyData.Web",
+  "BasePath": "_content/CurrencyData.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
