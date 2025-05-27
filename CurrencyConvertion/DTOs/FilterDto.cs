@@ -1,6 +1,6 @@
-﻿namespace CurrencyConvertion.ViewModels
+﻿namespace CurrencyConvertion.DTOs
 {
-    public class FilterViewModel
+    public class FilterDto
     {
         public int PageIndex { get; set; } = 1;
         public int PageSize { get; set; } = 10;

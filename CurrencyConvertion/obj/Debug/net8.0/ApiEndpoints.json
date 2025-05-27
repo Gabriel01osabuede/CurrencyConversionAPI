@@ -1,6 +1,139 @@
 [
   {
     "ContainingType": "CurrencyConvertion.Controllers.CurrencyController",
+    "Method": "ConvertCurrency",
+    "RelativePath": "api/v{version}/Currency/ConvertCurrency",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "BaseCurrency",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TargetCurrency",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Amount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CurrencyConvertion.ViewModels.ApiResponse\u00601[[CurrencyConvertion.ViewModels.ConvertCurrencyVM, CurrencyConvertion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CurrencyConvertion.Controllers.CurrencyController",
+    "Method": "ConvertCurrencyByDate",
+    "RelativePath": "api/v{version}/Currency/ConvertCurrencyByDate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "BaseCurrency",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TargetCurrency",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Amount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Date",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CurrencyConvertion.ViewModels.ApiResponse\u00601[[CurrencyConvertion.ViewModels.ConvertCurrencyBySpecificDateResponseVM, CurrencyConvertion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CurrencyConvertion.Controllers.CurrencyController",
+    "Method": "CurrencyExchangeRateHistory",
+    "RelativePath": "api/v{version}/Currency/CurrencyExchangeRateHistory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "BaseCurrency",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TargetCurrency",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "StartDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "EndDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CurrencyConvertion.ViewModels.ApiResponse\u00601[[CurrencyConvertion.ViewModels.HistoricalCurrencyRateViewModel, CurrencyConvertion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CurrencyConvertion.Controllers.CurrencyController",
     "Method": "HistoricalCurrencyRate",
     "RelativePath": "api/v{version}/Currency/HistoricalCurrencyRate",
     "HttpMethod": "GET",

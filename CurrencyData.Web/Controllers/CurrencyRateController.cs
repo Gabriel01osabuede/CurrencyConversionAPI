@@ -1,5 +1,4 @@
-﻿using CurrencyData.Web.Enums;
-using CurrencyData.Web.Interfaces;
+﻿using CurrencyData.Web.Interfaces;
 using CurrencyData.Web.ViewModels;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
